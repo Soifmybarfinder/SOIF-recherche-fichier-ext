@@ -1,0 +1,28 @@
+# Fichiers Python temporaires
+*.py
+__pycache__/
+*.pyc
+
+# Fichiers temporaires d'extraction
+extract_*.py
+main_script.txt
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environnements
+.env
+.env.local
